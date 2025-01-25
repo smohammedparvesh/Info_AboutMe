@@ -6,12 +6,13 @@ Hi there 👋, I'm MD-PARVESH.S
  Typing Animation
 
  
- Working at RentInTbilisi
- Coding Gif
+ Working at RentInTbilisi Coding Gif
+
 
 🔹 Passionate about Full-Stack Development
-🔹 Skilled at creating robust, scalable applications
+🔹 Skilled at creating robust,scalable applications
 🔹 Constantly exploring cutting-edge technologies
+
 
 👨‍💻 About Me
 🌱 Currently Learning: Advanced Web Development and Next.js
