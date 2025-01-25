@@ -1,5 +1,5 @@
-# S.MD_PARVESH
 WEB_DEVELOPMENT_PROJECT: via HTML--CSS--JAVASCRIPT--REACT--UIUX... 
+
 Hi there 👋, I'm MD-PARVESH.S
 Typing Animation
 
