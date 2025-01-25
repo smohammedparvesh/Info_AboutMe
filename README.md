@@ -1,8 +1,11 @@
 WEB_DEVELOPMENT_PROJECT: via HTML--CSS--JAVASCRIPT--REACT--UIUX... 
 
 Hi there 👋, I'm MD-PARVESH.S
-Typing Animation
 
+
+ Typing Animation
+
+ 
  Working at RentInTbilisi
  Coding Gif
 
