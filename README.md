@@ -3,10 +3,10 @@ WEB_DEVELOPMENT_PROJECT: via HTML--CSS--JAVASCRIPT--REACT--UIUX...
 Hi there 👋, I'm MD-PARVESH.S
 
 
- Typing Animation
+  Typing Animation
 
  
- Working at RentInTbilisi Coding Gif
+  Working at RentInTbilisi Coding Gif
 
 
 🔹 Passionate about Full-Stack Development
@@ -14,8 +14,12 @@ Hi there 👋, I'm MD-PARVESH.S
 🔹 Constantly exploring cutting-edge technologies
 
 
-👨‍💻 About Me
+👨‍💻 About Me:
+
 🌱 Currently Learning: Advanced Web Development and Next.js
+
 👯 Collaboration Goals: Building innovative and impactful projects
-💬 Ask Me About: Web Development, Full-Stack Development, and Dev Tools
+
+💬 Ask Me About: Web Development, Full-Stack Development, and Dev Tool
+
 ⚡ Fun Fact: I love experimenting with frameworks and designing workflows
