@@ -1,4 +1,4 @@
-## Hi there 👋, I'm **MOHAMMED_PARVESH.S**  
+## Hi there 👋, I'm **MOHAMMED PARVESH S**  
 
 ![Typing Animation](https://readme-typing-svg.demolab.com/?lines=Web+Developer;Web+Designer;Software+Developer&font=Fira%20Code&center=true&width=440&height=45&color=00bcd4&vCenter=true&size=22)
 
